@@ -1,13 +1,16 @@
-# Hi, I'm <Your Name>
+# Hi, I'm Jerry Fang!
 Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflections.
 
 ## Highlights
-- 🔧 Project 1: *(title)* – *(1–2 lines about what it does)*
-- 🧠 Concept I learned: *(short note)*
-- 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
+- 🔧 Project 1: Dreams of You – This is a dating simulator involving minigames and earning love points to get an anime girl to love you!
+- 🧠 Concept I learned: Learned how to implement ingame concepts such as minimap, character movement, and trackers for score.
+- 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md) (To be made)
 
 ## About me
-A short intro (interests, goals, tools I’m learning).
-
+I learnt python, java, and java processing. 
+My hobbies include working out, piano, running.
+In the future I hope to be in a Stem branched career, such as health sciences or mechanical engineernig.
+I hope to learn Computer Science obviously, but more broadly, I hope to learn more computational and competition type problems you see on math contests to develop a wider range of knowledge and critical thinking.
+I am very interesting
 ---
-*Update this page by editing `index.md` in your repository.*
+
