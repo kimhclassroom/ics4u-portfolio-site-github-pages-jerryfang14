@@ -15,7 +15,7 @@ In the future I hope to be in a Stem branched career, such as health sciences or
 
 I hope to learn Computer Science obviously, but more broadly, I hope to learn more computational and competition type problems you see on math contests to develop a wider range of knowledge and critical thinking.
 
-I am very interesting
+I am very interesting.
 
 ---
 
