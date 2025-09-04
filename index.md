@@ -4,7 +4,7 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 ## Highlights
 - 🔧 Project 1: Dreams of You – This is a dating simulator involving minigames and earning love points to get an anime girl to love you!
 - 🧠 Concept I learned: Learned how to implement ingame concepts such as minimap, character movement, and trackers for score.
-- 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md) (To be made)
+- 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md) 
 
 ## About me
 I learnt python, java, and java processing. 
